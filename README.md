@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alokrai
-- 👀 I’m interested in Software Engineering, Ruby on Rails, React, Python, Distributed Systems including Blockchain, and Artificial Intelligence.
+- 👀 I’m interested in Software Engineering and Product Management.
 - 🌱 I’m currently learning Ruby on Rails and React.
 - ⚕️ Currently working at a healthtech company in Paris.
 
