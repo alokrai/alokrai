@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alokrai
 - 👀 I’m interested in Software Engineering and Product Management
 - 🌱 I’m currently learning Machine Learning and FinTech
-- ⚕️ Currently working at Jellysmack in Paris as a Product Manager
+- 🎥 Currently working at Jellysmack in Paris as a Product Manager at the intersection of AI & video
 
 <!---
 alokrai/alokrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
