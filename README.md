@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alokrai
 - 👀 I’m interested in Software Engineering and Product Management.
-- 🌱 I’m currently learning Ruby on Rails and React.
+- 🌱 I’m currently learning Machine Learning and FinTech.
 - ⚕️ Currently working at a healthtech company in Paris.
 
 <!---
